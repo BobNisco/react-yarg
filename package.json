@@ -1,0 +1,32 @@
+{
+  "name": "react-yarg",
+  "version": "0.0.1",
+  "description": "Yet Another Responive Grid. But this ain't your grandparent's grid.",
+  "main": "lib/Yarg.js",
+  "scripts": {
+    "build-watch": "babel src --out-dir lib --watch",
+    "clean": "rm -rf lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "responsive",
+    "css",
+    "grid"
+  ],
+  "author": "Bob Nisco <BobNisco@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "radium": "^0.14.3",
+    "react": "^0.14.2"
+  },
+  "devDependencies": {
+    "babel": "^6.0.15",
+    "babel-cli": "^6.1.2",
+    "babel-core": "^6.1.2",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.1.3",
+    "babel-plugin-transform-react-constant-elements": "^6.0.14",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-react": "^6.1.2"
+  }
+}
