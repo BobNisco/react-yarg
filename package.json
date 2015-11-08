@@ -1,6 +1,6 @@
 {
   "name": "react-yarg",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Yet Another Responive Grid. But this ain't your grandparent's grid.",
   "main": "lib/Yarg.js",
   "scripts": {
