@@ -1,6 +1,6 @@
 # react-yarg
 
-Yet Another Responive Grid. But this ain't your grandparent's grid.
+Yet Another Responsive Grid. But this ain't your grandparent's grid.
 
 What makes react-yarg different is that **you can specify any amount of columns**. If this is already too crazy for you, don't worry as we default to 12 columns without you having to do anything at all.
 

@@ -1,7 +1,7 @@
 {
   "name": "react-yarg",
-  "version": "0.1.1",
-  "description": "Yet Another Responive Grid. But this ain't your grandparent's grid.",
+  "version": "0.1.2",
+  "description": "Yet Another Responsive Grid. But this ain't your grandparent's grid.",
   "main": "lib/Yarg.js",
   "scripts": {
     "build-watch": "babel src --out-dir lib --watch",
